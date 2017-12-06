@@ -1,0 +1,9 @@
+c:\users\surya\documents\visual studio 2013\Projects\ProjectBinChange\ProjectBinChange\bin\Debug\ProjectBinChange.exe.config
+c:\users\surya\documents\visual studio 2013\Projects\ProjectBinChange\ProjectBinChange\bin\Debug\ProjectBinChange.exe
+c:\users\surya\documents\visual studio 2013\Projects\ProjectBinChange\ProjectBinChange\bin\Debug\ProjectBinChange.pdb
+c:\users\surya\documents\visual studio 2013\Projects\ProjectBinChange\ProjectBinChange\obj\Debug\ProjectBinChange.csprojResolveAssemblyReference.cache
+c:\users\surya\documents\visual studio 2013\Projects\ProjectBinChange\ProjectBinChange\obj\Debug\ProjectBinChange.Form1.resources
+c:\users\surya\documents\visual studio 2013\Projects\ProjectBinChange\ProjectBinChange\obj\Debug\ProjectBinChange.Properties.Resources.resources
+c:\users\surya\documents\visual studio 2013\Projects\ProjectBinChange\ProjectBinChange\obj\Debug\ProjectBinChange.csproj.GenerateResource.Cache
+c:\users\surya\documents\visual studio 2013\Projects\ProjectBinChange\ProjectBinChange\obj\Debug\ProjectBinChange.exe
+c:\users\surya\documents\visual studio 2013\Projects\ProjectBinChange\ProjectBinChange\obj\Debug\ProjectBinChange.pdb
