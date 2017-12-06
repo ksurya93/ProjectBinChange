@@ -1,2 +1,2 @@
 # ProjectBinChange
-Simple Windows Form Application to Replace the Reference/Output Path in Visual Studio .NET Project.
+Windows Form Application to Replace the Reference/Output Path in Visual Studio .NET Project.
